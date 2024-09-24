@@ -1,2 +1,1 @@
-# NodejsPrisma-empty
-Empty nodejs file with prisma database config file
+# Empty Node Js File With Prisma Database Configuration File
